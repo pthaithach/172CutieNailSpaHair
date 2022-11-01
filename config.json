@@ -1,0 +1,35 @@
+{
+    "data": {
+        "store"     : "Cutie Nail Spa & Hair",
+        "slug"      : "Cutie-nail-spa-hair",
+        "phone"     : "(714) 526-5951", 
+        "email"     : "tjtran29@gmail.com",
+        "address"   : "1328 E Chapman Ave Fullerton, California 92831",
+        "time_1"    : "Mon - Fri: 09:30 AM - 07:00 PM",
+        "time_2"    : "Sat: 09:30 AM - 07:00 PM",
+        "time_3"    : "Sun: Closed"
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/cutienailspaandhairfullerton",
+        "instagram" :   "https://www.instagram.com/jennifer.cutienails",
+        "google"    :   "https://goo.gl/maps/XGzuQVWjN5Dyc3mC6", 
+        "booking"   :   "https://www.lldtek.com/salon/appt/NDcwNjJ8Y3V0aWUxMzI4fENBXzA3OTQ1fGEwM2Q3NzQyYWY5OTE5ZDk2OGRhNjJhYzgyMDA2YTUy",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3312.6168989086896!2d-117.90634414872497!3d33.87376273446597!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dcd5e7c3631125%3A0x18b0e3e3629cc6f1!2sCutie%20Nail%20Spa%20%26%20Hair!5e0!3m2!1sen!2s!4v1667191382398!5m2!1sen!2s"
+    },
+    "color": {
+        "primary"               :   "#913C02",
+        "primary_light"         :   "#EF7216",
+        "primary_hover"         :   "#602801",
+        "secondary"             :   "#EF7216",
+        "secondary_hover"       :   "#88BC3A",
+        "text_primary"          :   "#F99958",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "on",
+    "path_image":   "assets/images",
+    "domain":       "http://127.0.0.1:5500/"
+}
